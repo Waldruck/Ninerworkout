@@ -1,0 +1,15 @@
+excerciseId,muscleGroup,excerciseType,excerciseName
+1,Chest,Body,Standard Push-Ups
+2,Chest,Gym,Bench Press
+3,Arm,Body,BodyWeight Dips
+4,Arm,Gym,BodyWeight Curls
+5,Leg,Body,Box Jumps
+6,Leg,Gym,Leg Press
+5,Core,Both,Sit-Ups
+6,Core,Both,Russian Twists
+9,Shoulder,Body,Pike Push-Ups
+10,Shoulder,Gym,Shoulder Press
+11,Back,Body,Lawnmowers
+12,Back,Gym,Pull-Ups
+13,Stretch,Body,Child-Pose
+14,Strecth,Body,Toe-Touches
